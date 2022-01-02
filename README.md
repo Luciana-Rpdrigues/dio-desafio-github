@@ -5,3 +5,9 @@ Desafio Dio.
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 
 [Slides](https://drive.google.com/file/d/1IZu0qohv1JOmxjEra1lknDiiStU68bl4/view)
+
+# Livro de receitas
+
+Olá! Bem vindo ao meu livro de receitas
+
+* Strogonoff de Frango
